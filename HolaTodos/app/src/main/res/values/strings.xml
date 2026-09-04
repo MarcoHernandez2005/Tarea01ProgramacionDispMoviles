@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HolaTodos</string>
+    <string name="helloAndroid">"
+
+           /\\___/\\
+          /       \\
+         |  -   -  |
+         \\    x    /
+          \\  ___  /
+          /       \\
+         /  /   \\  \\
+        (  (     )  )
+         \\  \\___/  /
+          \\_______/
+        
+    Marco Antonio Hernández Torres
+    Facultad de Ciencias
+    UNAM
+    "</string>
+</resources>
