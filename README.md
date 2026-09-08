@@ -35,4 +35,4 @@ Ejecutar la aplicación:
 
 Selecciona tu emulador o dispositivo físico en la barra superior.
 
-Presiona el botón de Run 'app' (▶) o la combinación de teclas Shift + F10.
+Presiona el botón de Run 'app' o la combinación de teclas Shift + F10.
